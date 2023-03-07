@@ -14,7 +14,7 @@ namespace OTS_Cas1
         {
             return days * 24;
         }
-
+        //First pull commit
         public double ConvertMinutes(double days)
         {
             minutes = days * 24 * 60;
